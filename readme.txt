@@ -1,1 +1,2 @@
+Note: this project requires the player/stage project to run
 The goal of this project is to create A.I. that is capable of moving through a maze to reach and enter all rooms. The A.I. code is in laserobstacleavoid.cc and uses a simple Markov decision process to choose its path. The robot is equiped with a laser that can detect obsticles in front of it with 180 degree scope. Once the robot has visited all rooms of the maze it stops and reads to the console "Done!"
