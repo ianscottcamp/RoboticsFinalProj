@@ -1,0 +1,1 @@
+/usr/bin/g++    laserobstacleavoid.cc  -o laserobstacleavoid  -I/usr/local/include/player-3.1  -I. -L/usr/local/lib -rdynamic -lplayerc++ -lboost_thread -lboost_system -lboost_signals -lplayerc -lm -lz -lplayerinterface -lplayerwkb -lplayercommon -Wl,-rpath,/usr/local/lib
